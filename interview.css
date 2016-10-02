@@ -1,0 +1,41 @@
+h1, h2, p {
+    color: #A9E2F3;
+    font-family: Arial;
+}
+
+div {
+	font-family: Arial;
+	color: #A9E2F3;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#box1 {
+	width: 90px;
+	height: 90px;
+	background: orange;
+	color: black;
+	box-shadow: 10px 10px 5px #888888 inset;
+	border-style: solid;
+	border-color: blue;
+	text-align: center;
+}
+
+.box {
+	border-radius: 15px;
+	width: 90px;
+	height: 90px;
+	background: orange;
+	box-shadow: 10px 10px 5px #888888;
+	border-style: solid;
+	border-color: blue;
+	text-align: center;
+}
+
+#box2 {
+	color: red;
+}
+
+#box3 {
+	color: blue;
+}
